@@ -1,6 +1,7 @@
 Jogo da adivinhação
 
-Alunos: Aluísio Aragão e Gabriel Candido
+Alunos: Aluísio Aragão Negromonte Neto (RGM:43044590)
+        Gabriel Cândido Andrade (RGM:42980593)
 Turma: F (CC)
 
 Link do video:
